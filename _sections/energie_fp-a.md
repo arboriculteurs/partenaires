@@ -11,6 +11,6 @@ image:
   description: ""
   author: A.A.L.E
   author_link: 
-published: false
+
 ---
 

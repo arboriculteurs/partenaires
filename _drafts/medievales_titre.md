@@ -1,6 +1,6 @@
 ---
-index: 810
-published: false
+index: 610
+
 ---
 
 <section class="slide-bottom"> 
@@ -9,7 +9,7 @@ published: false
     <div class="wrap">
     <div class="content-right" style="color:#eee">
         <h3 class="text-context">Pour les enfants de Lichtenberg</h3>
-        <h1 class="text-data text-shadow">La Saint Nicolas</h1>
+        <h1 class="text-data text-shadow">Les médiévales</h1>
         <figcaption><svg class="fa-camera"><use xlink:href="#fa-camera"></use></svg>&nbsp;A.A.L.E.</figcaption>
      </div>            
     </div>

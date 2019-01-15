@@ -11,6 +11,6 @@ image:
   description: "Jardin pédagogique"
   author: A.A.L.E
   author_link:
-published: false 
+ 
 ---
 

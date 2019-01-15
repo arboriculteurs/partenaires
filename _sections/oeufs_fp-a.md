@@ -7,10 +7,10 @@ text:
    position: 9
    background: "dark"
 image:
-  file: "assets/images/oeufs02.jpg"
+  file: "assets/images/oeufs01.jpg"
   description: "Le lapin de Pâques"
   author: A.A.L.E
   author_link: 
-published: false
+
 ---
 

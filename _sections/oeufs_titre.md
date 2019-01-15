@@ -1,10 +1,9 @@
 ---
 index: 510
-published: false
----
 
+---
 <section class="slide-bottom"> 
-    <span class="background" style="background-image:url('assets/images/oeufs01.jpg')"></span>
+    <span class="background" style="background-image:url('assets/images/oeufs02.jpg')"></span>
     <!--.wrap = container (width: 90%) -->
     <div class="wrap">
     <div class="content-right" style="color:#eee">

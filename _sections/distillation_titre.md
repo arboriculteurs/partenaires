@@ -1,16 +1,15 @@
 ---
 index: 410
-published: false
+type_of_section: "card"
+image_side: "right"
+title: Démonstration de distillation
+sub-title: À la Boucherie Schwab
+image:
+  file: "assets/images/distillation01.jpg"
+  description: "Un savoir-faire et un équipement"
+  author: "A.A.L.E."
+  author_link: 
+
 ---
-<section class="slide-bottom"> 
-    <span class="background" style="background-image:url('assets/images/nicolas02.jpg')"></span>
-    <!--.wrap = container (width: 90%) -->
-    <div class="wrap">
-    <div class="content-right" style="color:#eee">
-        <h3 class="text-context">À la Boucherie Schwab</h3>
-        <h1 class="text-data text-shadow">Démonstration de distillation</h1>
-        <figcaption><svg class="fa-camera"><use xlink:href="#fa-camera"></use></svg>&nbsp;A.A.L.E.</figcaption>
-     </div>            
-    </div>
-   <!-- .end .wrap -->
-</section>
+L'Association des Arboriculteurs de Lichtenberg et Environs dispose d'un alambic qui peut être loué par ses membres.  
+Le 4 mars dernier, malgré un temps peu clément, l'A.A.L.E. a procédé à une démonstration de distillation sur le parking de notre partenaire, la **Boucherie Schwab**.

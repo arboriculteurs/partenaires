@@ -1,6 +1,6 @@
 ---
 index: 210
-published: false
+
 ---
 <section class="slide-top"> 
     <span class="background" style="background-image:url('assets/images/energie01.jpg')"></span>

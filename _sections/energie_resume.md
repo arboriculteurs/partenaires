@@ -9,7 +9,7 @@ image:
   description: "Un savoir-faire et un équipement"
   author: "A.A.L.E."
   author_link: 
-published: false
+
 ---
 L'Association des Arboriculteurs de Lichtenberg et Environs a participé à l'animation de deux journées portes ouvertes chez notre partenaire **Énergie Concept** à Ingwiller, les 5 novembre 2017 et 22 avril 2018
 

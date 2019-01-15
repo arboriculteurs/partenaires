@@ -1,6 +1,6 @@
 ---
 index: 310
-published: false
+
 ---
 
 <section class="slide-bottom"> 

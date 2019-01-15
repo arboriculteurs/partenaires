@@ -1,5 +1,5 @@
 ---
-index: 830
+index: 630
 type_of_section: "fullimage"
 title: Je sais ! Je sais...
 sub-title: De nombreuses explications ont déjà été données en classe
@@ -10,7 +10,7 @@ image:
   file: "assets/images/jardin03.jpg"
   description: "Jardin pédagogique"
   author: A.A.L.E
-  author_link:
-published: false 
+  author_link: 
+
 ---
 
