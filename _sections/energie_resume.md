@@ -11,7 +11,8 @@ image:
   author_link: 
 
 ---
-L'Association des Arboriculteurs de Lichtenberg et Environs a participé à l'animation de deux journées portes ouvertes chez notre partenaire **Énergie Concept** à Ingwiller, les 5 novembre 2017 et 22 avril 2018
+L'Association des Arboriculteurs de Lichtenberg et Environs a participé à l'animation de deux journées portes ouvertes de notre partenaire **Énergie Concept** à Ingwiller, les 5 novembre 2017 et 22 avril 2018
 
 ### Une animation médiatisée
-L'A.A.L.E proposait à son stand boissons et restauration rapide. Les **Graines Hubert**, autre partenaire majeur de notre association, était également associé à cette manifestation. Notons que la journée du 5 novembre a été marquée par la présence d'une équipe de EST FM qui a relayé l'événement sur son antenne.
+L'A.A.L.E proposait à son stand boissons et restauration rapide. Les **Graines Hubert**, autre partenaire majeur de notre association, était également associé à cette manifestation. Étaient également présents des trickes du **Moto Club du Lion de Lichtenberg**. 
+Notons que la journée du 5 novembre a été marquée par la présence d'une équipe de EST FM qui a relayé l'événement sur son antenne.

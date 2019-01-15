@@ -18,4 +18,4 @@ En plus du jus de pommes, les participants ont pu déguster des *pommes d'except
 ### Et des charcuteries
 Fête de la pomme... et du boudin. Les spécialités de notre partenaire, la **Boucherie Schwab**, servies au long de la journée ont connu un franc succès. 
 
-La manifestation sera reconduite en septembre prochain.
+La manifestation sera reconduite à l'automne prochain.

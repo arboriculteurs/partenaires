@@ -14,7 +14,7 @@ Monter un chapiteau, animer une manifestation, tenir une buvette, cuisiner et se
 Et en plus de la compétence, l'A.A.L.E. dispose de tout le matériel nécessaire pour ce genre de prestations.
 
 ### Une part conséquente des recettes
-Les animations réalisées pour nos partenaires commerciaux ou pour les différentes associations et municipalités permettent partiellement de financer les activités de l'A.A.L.E. Et de marquer la présence de l'association par des stands bien visibles dans les différentes manifestations.
+Les animations réalisées pour nos partenaires commerciaux ou pour les différentes associations et municipalités permettent partiellement de financer les activités de l'A.A.L.E. et de marquer la présence de l'association par des stands bien visibles dans les différentes manifestations.
 
 ### Des démonstrations spectaculaires
 Le savoir-faire spécifique de l'association permet de réaliser deux types de démonstrations spectaculaires, toujours demandées lors des animations. Des démonstrations de broyage et pressage de pommes, suivies de la dégustation du jus frais. Et des démonstrations de distillation.
